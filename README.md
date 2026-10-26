@@ -134,6 +134,14 @@ Os valores acima reproduzem os resultados apresentados no notebook. A participa�
 - **Distribuição geográfica:** Westminster aparece entre as áreas com maior volume de ocorrências no conjunto analisado. Essa concentração não demonstra, isoladamente, maior risco para cada residente ou visitante.
 - **Análises complementares:** a investigação de tendências anuais, padrões sazonais e diferenças entre pequenas áreas geográficas pode aprofundar a análise, desde que essas conclusões sejam calculadas e verificadas nos dados.
 
+### Interpretação dos resultados
+
+**Distribuição por categoria:** na base analisada, a categoria “Theft and Handling” corresponde a 41,28% dos registros, conforme o resultado da consulta. Isso indica uma participação expressiva dessa categoria no conjunto estudado, mas não deve ser interpretado como uma taxa de vitimização da população.
+
+**Distribuição geográfica:** Westminster aparece como a área com maior volume de ocorrências no recorte analisado. Essa observação descreve a distribuição dos registros e, isoladamente, não explica as causas da concentração nem demonstra que a área tenha o maior risco individual.
+
+**Próxima investigação:** uma extensão útil seria analisar a evolução anual das ocorrências e comparar áreas geográficas com denominadores adequados, quando disponíveis. Essas análises exigem consultas adicionais e validação antes de serem apresentadas como conclusões.
+
 ## 8. Dashboard Power BI
 
 O arquivo `London_BI.pbix` contém quatro páginas:
