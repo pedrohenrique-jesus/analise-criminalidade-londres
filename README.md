@@ -127,6 +127,13 @@ Os valores acima reproduzem os resultados apresentados no notebook. A participa�
 
 **Importante:** os totais representam volumes agregados conforme a consulta, e não taxas de criminalidade por habitante. Não há denominadores populacionais no dataset exportado, portanto os volumes não devem ser interpretados como risco individual ou como comparação ajustada pelo tamanho da população.
 
+## Limitações da análise
+
+- **Período analisado:** os resultados apresentados referem-se aos registros de 2008 a 2016. Eles não devem ser interpretados como uma descrição da criminalidade atual em Londres.
+- **Contagens versus taxas:** a quantidade de ocorrências registradas permite comparar o volume de registros no conjunto analisado, mas não representa, por si só, o risco individual de vitimização. Para calcular taxas comparáveis, seria necessário incorporar denominadores populacionais adequados.
+- **Distribuição geográfica:** Westminster aparece entre as áreas com maior volume de ocorrências no conjunto analisado. Essa concentração não demonstra, isoladamente, maior risco para cada residente ou visitante.
+- **Análises complementares:** a investigação de tendências anuais, padrões sazonais e diferenças entre pequenas áreas geográficas pode aprofundar a análise, desde que essas conclusões sejam calculadas e verificadas nos dados.
+
 ## 8. Dashboard Power BI
 
 O arquivo `London_BI.pbix` contém quatro páginas:
